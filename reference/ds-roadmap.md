@@ -1,12 +1,12 @@
-#DS Roadmap
+# DS Roadmap
 ## Introducción
 * Cómo se usa esta guía
 * Definiciones y términos usados
 
-##Estadística y álgebra lineal
+## Estadística y álgebra lineal
 Bases de estadística y álgebra lineal.
 
-##Programación
+## Programación
 Lenguajes de programación y cosas útiles y usadas.
 
 * Lenguajes de programación
@@ -15,7 +15,7 @@ Lenguajes de programación y cosas útiles y usadas.
 * IDEs y editores de texto
 * Linux y herramientas
 
-##Data Engineering
+## Data Engineering
 Obtención, organización, procesamiento y limpieza de datos.
 
 * Fuentes de datos y formatos
@@ -23,9 +23,9 @@ Obtención, organización, procesamiento y limpieza de datos.
 * Almacenamiento de datos
 * Procesamiento y limpieza (pipelines?)
 
-##Machine-Learning
+## Machine-Learning
 * Qué es ML y ejemplos
 
-##Deep Learning
+## Deep Learning
 
-##Visualización de datos
+## Visualización de datos
