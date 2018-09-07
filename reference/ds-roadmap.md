@@ -29,3 +29,12 @@ Obtención, organización, procesamiento y limpieza de datos.
 ## Deep Learning
 
 ## Visualización de datos
+
+## Links
+https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+
+https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html
+
+http://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
